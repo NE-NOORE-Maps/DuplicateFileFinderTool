@@ -1,3 +1,7 @@
+
+ ![image](https://github.com/user-attachments/assets/635e6368-9c62-4b67-9c4a-05e358a913b1)
+
+ 
  # Duplicate File Finder for FiveM Server
 ## Description:
 This application is a specialized tool designed to help FiveM server administrators quickly identify and manage duplicate files within their server directories. The app scans selected folders, locates duplicate files based on file names and extensions, and displays them in a user-friendly interface. This can help optimize your server's performance by eliminating unnecessary duplicate files.
